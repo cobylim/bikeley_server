@@ -1,0 +1,9 @@
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+# Python cache
+bikeley_server/__pycache__/*
+bikeley_server/__pycache__/settings.cpython-310.pyc
