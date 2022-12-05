@@ -26,8 +26,7 @@ SECRET_KEY = 'django-insecure-tz1sx4-#zw1xx@c95r#payd%xd+7%tuipn#f@ey_4_giz6$p+0
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['bikeley-server.eba-gnhr6e2r.us-west-1.elasticbeanstalk.com', '127.0.0.1']
-
+ALLOWED_HOSTS = ['bikeley-api.eba-msiedrdm.us-west-1.elasticbeanstalk.com', '127.0.0.1']
 
 # Application definition
 
@@ -71,7 +70,6 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'bikeley_server.wsgi.application'
-
 
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
