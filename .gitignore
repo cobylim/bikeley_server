@@ -8,3 +8,4 @@
 *.pyc
 bikeley_server/__pycache__/*
 bikeley_server/__pycache__/settings.cpython-310.pyc
+mydb
