@@ -26,4 +26,4 @@ Alternatively, you can also use a tool such as Postman to access the server. The
 # Front End Demo
 
 To view a demo of the front end website visit the google drive link here
-https://drive.google.com/drive/u/0/folders/1KA1h7jx4hmWZTpYVvkFLFlYOIYyg1CGf
+[CEE 290I Project](https://drive.google.com/drive/u/0/folders/1KA1h7jx4hmWZTpYVvkFLFlYOIYyg1CGf)
