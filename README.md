@@ -22,3 +22,8 @@ Go to `http://127.0.0.1:8000/admin` to access the admin page. Instructions for n
 
 The Locations API should also be running at `http://127.0.0.1:8000/admin`. Accessing the site in your browser should give you a GUI to interact with the admin. 
 Alternatively, you can also use a tool such as Postman to access the server. The full API documentation is available [here](https://wealthy-catmint-f7d.notion.site/Bikeley-API-Specs-7e8cee3ffcf445bbb3ed81b4333a1108).
+
+# Front End Demo
+
+To view a demo of the front end website visit the google drive link here
+https://drive.google.com/drive/u/0/folders/1KA1h7jx4hmWZTpYVvkFLFlYOIYyg1CGf
